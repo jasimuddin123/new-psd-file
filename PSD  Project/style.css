@@ -1,0 +1,15 @@
+*{
+	box-sizing:border-box;
+}
+
+body{
+	margin:0;
+	padding:0;
+	font-family: 'PT Serif', serif;
+}
+.container{
+	width: 1230px;
+	margin:0;
+	padding:0 15px;
+	background-color:grey;
+}
