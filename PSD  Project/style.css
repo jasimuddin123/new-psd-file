@@ -13,3 +13,9 @@ body{
 	padding:0 15px;
 	background-color:grey;
 }
+.header{
+	background:green;
+	width:200px;
+	height:200px;
+	border:1px solid gray;
+}
